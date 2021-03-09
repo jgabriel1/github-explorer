@@ -1,5 +1,5 @@
-export function App() {
-  throw new Error('eita giovana');
+import './styles/global.scss';
 
+export function App() {
   return <h1>Hello ReactJS</h1>;
 }
